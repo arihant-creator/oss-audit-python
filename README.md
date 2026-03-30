@@ -79,4 +79,7 @@ In this project, I focused on understanding how Python works in a system environ
 \## Conclusion
 
 This project helped me understand both the theoretical and practical aspects of open source software. It also improved my knowledge of shell scripting and system commands.
+## Author
+ARIHANT VATS
+24BCY10289
 
