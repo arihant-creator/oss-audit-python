@@ -1,20 +1,10 @@
 \# OSS Audit Python Project
 
-
-
 \## Description
 
 This project is based on studying open source software using Python as the main tool. It also includes basic shell scripts that perform simple system tasks.
 
-
-
 In this project, I focused on understanding how Python works in a system environment and how small automation tasks can be done using scripts.
-
-
-
-\---
-
-
 
 \## Features
 
@@ -28,12 +18,6 @@ In this project, I focused on understanding how Python works in a system environ
 
 \- Verify Python version  
 
-
-
-\---
-
-
-
 \## Technologies Used
 
 \- Python  
@@ -42,23 +26,11 @@ In this project, I focused on understanding how Python works in a system environ
 
 \- GitHub  
 
-
-
-\---
-
-
-
 \## Project Structure
 
 \- scripts folder (contains all shell scripts)  
 
 \- README file  
-
-
-
-\---
-
-
 
 \## How to Run
 
@@ -69,12 +41,6 @@ In this project, I focused on understanding how Python works in a system environ
 3\. Run scripts using:
 
 &#x20;  bash filename.sh  
-
-
-
-\---
-
-
 
 \## Conclusion
 
